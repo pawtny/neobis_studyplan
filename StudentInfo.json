@@ -1,0 +1,14 @@
+{
+  "firstName": "Sardar",
+  "lastName": "Sultanaliev",
+  "age": 18,
+  "IQ": null,
+  "physicalCharacteristics":{
+    "build": "medium build",
+    "height": 180,
+    "head":{
+      "hairColour": "brown",
+      "eyesColour": "brown"
+    }
+  }
+}
