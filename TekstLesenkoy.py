@@ -3,4 +3,5 @@ a = r.split()
 s = ""
 for i in range(0, len(a)):
     print(s + a[i])
-    s = s + "  "
+    for j in range(0, len(a[i])):
+        s = s + " "
