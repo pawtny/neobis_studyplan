@@ -6,4 +6,5 @@ o = c * 2 + math.sqrt(a ** 2 + b ** 2)
 if p < o:
     print(p ** 2)
 else:
-    print(round(o ** 2))
+    print(math.floor(o ** 2))
+#1000000000 1000000000 99999999
