@@ -10,5 +10,5 @@ elif n >= 2:
         a.append(a[-1] + a[-2])
     print(sum)
 else:
-    print(0)
+    print(n)
         
