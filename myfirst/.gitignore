@@ -3,3 +3,12 @@ venv/
 
 # secrets
 .env
+
+# stuff from django girls
+*.pyc
+*~
+__pycache__
+venv
+db.sqlite3
+/static
+.DS_Store
