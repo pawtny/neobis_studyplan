@@ -1,1 +1,1 @@
-# neobis_studyplan tasks 1-3
+# neobis studyplan tasks 1-3
